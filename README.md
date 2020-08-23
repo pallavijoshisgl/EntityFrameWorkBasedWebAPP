@@ -1,10 +1,6 @@
 # Entity Framework Based Web APP
 
-# # A coding assignment problem
-
-
-
-## This is the web application developed for the job application. 
+A coding assignment problem which includes the web application developed for the job application. 
 
 Running instruction:
 
