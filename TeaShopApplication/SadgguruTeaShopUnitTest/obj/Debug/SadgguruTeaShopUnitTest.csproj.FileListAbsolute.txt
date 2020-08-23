@@ -1,0 +1,2 @@
+C:\Users\palla\source\repos\TeaShopApplication\SadgguruTeaShopUnitTest\obj\Debug\SadgguruTeaShopUnitTest.csprojAssemblyReference.cache
+C:\Users\palla\source\repos\TeaShopApplication\SadgguruTeaShopUnitTest\obj\Debug\SadgguruTeaShopUnitTest.csproj.CoreCompileInputs.cache

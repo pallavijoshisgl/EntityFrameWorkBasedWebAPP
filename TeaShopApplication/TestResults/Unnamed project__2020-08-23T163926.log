@@ -1,0 +1,17 @@
+﻿2020-08-23T16:39:26.0572863+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-08-23T16:39:26.0572863+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.31 in Framework clr40 in x64 mode execution started
+2020-08-23T16:39:26.0572863+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\palla\source\repos\TeaShopApplication\SadguruTeaShop.Test\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-08-23T16:39:26.0872063+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\palla\source\repos\TeaShopApplication\SadguruTeaShop.Test\bin\Debug\SadguruTeaShop.Test.dll
+2020-08-23T16:39:26.0872063+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\palla\source\repos\TeaShopApplication\TestResults" (default)
+2020-08-23T16:39:26.0872063+05:30;VSTestExecutionThread;Info;Profile: 
+2020-08-23T16:39:26.1190004+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\palla\source\repos\TeaShopApplication\TestResults\Unnamed project__2020-08-23T163926.log
+2020-08-23T16:39:26.1240184+05:30;Thread#18;Info;Checking activation
+2020-08-23T16:39:27.6857153+05:30;Thread#18;Error;No tests executed (activation needed)
+2020-08-23T16:39:27.7017036+05:30:Total: 0
+2020-08-23T16:39:27.7036980+05:30:Succeeded: 0
+2020-08-23T16:39:27.7036980+05:30:Ignored: 0
+2020-08-23T16:39:27.7046954+05:30:Pending: 0
+2020-08-23T16:39:27.7046954+05:30:Skipped: 0
+2020-08-23T16:39:27.7046954+05:30:Failed: 0
+2020-08-23T16:39:27.7126738+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

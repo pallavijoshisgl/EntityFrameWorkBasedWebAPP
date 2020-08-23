@@ -1,0 +1,1 @@
+C:\Users\palla\source\repos\TeaShopApplication\SadgguruTeaShopUnitTest.Tests\obj\Debug\SadgguruTeaShopUnitTest.Tests.csproj.CoreCompileInputs.cache
