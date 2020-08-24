@@ -1,0 +1,8 @@
+As the application is not deployed on any server, you need to open the project with Visual Studio.
+TeaShopApplication is the Solution which has 2 projects-SadhguruTeaShop and UnitTestProject1(Used for NUnit TestCase).
+There are 3 main folders- Views,Controllers and Models.
+
+Steps to run the application:
+1.Open the project with Visual Studio.
+2.Expand the Views Folder->Home Folder will open up.
+3.Right click the Index.cshtml in the Home folder and choose the Browser.(Preferably Chrome)
